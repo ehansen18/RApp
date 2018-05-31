@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relatively"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffff80"
+    android:orientation="vertical"
+    android:weightSum="1" >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="R Medicine Conference Games"
+        android:layout_weight="1"
+        android:textColor="#000"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal|center_vertical"
+        />
+</LinearLayout>

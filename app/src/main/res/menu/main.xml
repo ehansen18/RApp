@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content">
+    <item android:id="@+id/about_menu"
+        android:title="About"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/location_menu"
+        android:title="Location"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/sponsor_menu"
+        android:title="Sponsors"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/committee_menu"
+        android:title="Committee"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/contact_menu"
+        android:title="Contact"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/wait_menu"
+        android:title="While you Wait"
+        app:showAsAction="ifRoom" />
+</menu>

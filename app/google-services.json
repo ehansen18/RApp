@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "447915426410",
+    "firebase_url": "https://rsignin-a6ecf.firebaseio.com",
+    "project_id": "rsignin-a6ecf",
+    "storage_bucket": "rsignin-a6ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447915426410:android:7213ac36f08a33bb",
+        "android_client_info": {
+          "package_name": "com.example.ultim.rgames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447915426410-uvldt22bvt7t4dli5m51po40s7gv15gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ultim.rgames",
+            "certificate_hash": "07f4a8fc2b592a975375a3097579e1fa827df235"
+          }
+        },
+        {
+          "client_id": "447915426410-qub4l7hjbn0lg4ghhdlkravec5j979k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBP_Xg6AMAsH7gX555wkVVK0XgdZn9kSg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447915426410-qub4l7hjbn0lg4ghhdlkravec5j979k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

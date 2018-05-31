@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RGames</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="followingBenefits"><b>R / Medicine Sponsors receive the following benefits: </b></string>
+    <string name="benefit"><b>One full ticket to the conference</b></string>
+    <string name="sponsortable">A table at the conference furnished with 2 chairs and power setup in a location that will attract attended traffic
+Their corporate logo listed on the conference website and conference program
+The option to have their names associated with one of the scheduled listed below. Sponsors may choose any event from the list that is still available when they commit.</string>
+    <string name="sponsorPackage"><b>R / Medicine Sponsorship Package</b></string>
+    <string name="sponsorPrice">Sponsorship price: $4,000</string>
+    <string name="sponsors">
+        <b>List of scheduled social events:</b></string>
+    <string-array name="sponsorSchedule">
+        <item>Day 1 Conference Reception</item>
+        <item>After Conference Drinks</item>
+        <item>The pre-conference speakers dinner</item>
+        <item>Breakfast Day 1</item>
+        <item>Breakfast Day 2</item>
+        <item>Break Day 1</item>
+        <item>Break Day 2</item>
+        <item>Lunch Day 1</item>
+        <item>Lunch Day 2</item>
+    </string-array>
+    <string name="committee"><b>Committee</b></string>
+    <string-array name="committeeList">
+        <item>Beth Atkinson, The Mayo Clinic</item>
+        <item>Denise Esserman Yale University</item>
+        <item>Michael Kane (Chair), Yale University</item>
+        <item>Balasubramanian Narasimhan (Naras), Stanford University</item>
+        <item>Joseph Rickert, RStudio</item>
+        <item>Hongyu Zhao, Yale University</item>
+    </string-array>
+    <string name="about">The goal of the R/Medicine conference is to promote the use of the R programming environment and the R ecosystem in medical research and clinical practice. R, the dominant open source language for statistical computing and data visualization, has also become an effective tool for enabling reproducible research and the communication of scientific knowledge. In addition to showcasing novel tools, algorithms and methods for analyzing medical and clinical data we hope that the conference will provide a forum for collaboration within the community.
+Conference talks will address the use of R in medical applications from Phase I clinical trial design through the analysis of the efficacy of medical therapies in public use. Topic areas for R/Medicine include: clinical trial design, the analysis of clinical trial data, personalized medicine, the analysis of patient records, the analysis of genetic data, the visualization of medical data, and reproducible research.Note that topics related to drug discovery and PK/PD modeling will likely be the focus of the upcoming R/Pharma conference. </string>
+    <string name="contactEmail">Feel Free to Contact us through the following at <b>r.medicine2018@gmail.com</b>  </string>
+    <string name="contactInfo">R / Medicine is dedicated to providing a harassment-free conference experience for everyone regardless of gender, sexual orientation, disability or any feature that distinguishes human beings. </string>
+</resources>
